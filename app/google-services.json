@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615224975977",
+    "project_id": "courtbook-8b017",
+    "storage_bucket": "courtbook-8b017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615224975977:android:b1b78fd324a2531b0178f8",
+        "android_client_info": {
+          "package_name": "com.example.courtbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcBDoSUlQIieu9itjHJwYDNbXEMH-hbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
